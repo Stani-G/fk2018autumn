@@ -1,1 +1,3 @@
 Forte knowledge
+git add SolomiiaButryn.txt
+git status
